@@ -36,6 +36,9 @@ The dashboard helps businesses understand customer purchasing patterns and impro
 ✅ Download Segmented Data  
 
 ---
+Out put checking
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.55.104:8501
 
 # Project Structure
 
